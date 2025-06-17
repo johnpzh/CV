@@ -1,1 +1,11 @@
+# Output
 rendercv_output/
+
+# IDE
+.vscode/
+.idea/
+*.sublime-workspace
+
+# OS
+.DS_Store
+__pycache__/

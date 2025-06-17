@@ -12,29 +12,40 @@ cv:
   sections:
     research_interests:
       - Zhen is a postdoc at the Future Computing Technologies Group (formerly known as the High-Performance Computing Group) at Pacific Northwest National Laboratory (PNNL).
-      - His research interests include high-performance computing, compiler, continuum computing, etc.
+      - His research interests include high-performance computing, sparse computing, compiler, continuum computing.
     education:
-      - institution: Stanford University
+      - institution: College of William & Mary
         area: Computer Science
-        degree: PhD
+        degree: Ph.D.
         date:
-        start_date: 2023-09
-        end_date: present
-        location: Stanford, CA, USA
+        start_date: 2016-08
+        end_date: 2023-01
+        location: Williamsburg, VA, USA
         summary:
         highlights:
-          - Working on the optimization of autonomous vehicles in urban environments
-      - institution: Boğaziçi University
-        area: Computer Engineering
-        degree: BS
+          - 'Advisor: Dr. Bin Ren'
+          - 'Dissertation Title: Exploring Multi-Level Parallelism for Graph-Based Applications via Algorithm and System Co-Design'
+      - institution: Huaqiao University
+        area: Computer Software and Theory
+        degree: M.S.
         date:
-        start_date: 2018-09
-        end_date: 2022-06
-        location: Istanbul, Türkiye
+        start_date: 2013-09
+        end_date: 2016-07
+        location: Xiamen, Fujian, China
         summary:
         highlights:
-          - 'GPA: 3.9/4.0, ranked 1st out of 100 students'
-          - 'Awards: Best Senior Project, High Honor'
+          - 'Advisor: Dr. Tian Wang'
+          - 'Dissertation Title: Research on Target Tracking in Wireless Sensor Networks with Mobility Elements'
+      - institution: Huaqiao University
+        area: Computer Science and Technology
+        degree: B.S.
+        date:
+        start_date: 2009-09
+        end_date: 2013-06
+        location: Xiamen, Fujian, China
+        summary:
+        highlights:
+          - 'Dissertation Title: Popular Hot News Website Subscription'
     experience:
       - company: Company C
         position: Summer Intern
@@ -102,10 +113,11 @@ cv:
     service:
       - label: Program Committee Member
         details: XYZ-2023, PQR-2024.
-      - label: Journal Reviewer
-        details: Journal of Superconductivity and Novel Magnetism, IEEE Transactions on Applied Superconductivity.
       - label: Conference Sub-Reviewer
         details: ABC-2020, BCD-2025.
+      - label: Journal Reviewer
+        details: ACM XXX, IEEE Transactions of XXX.
+
     # extracurricular_activities:
     #   - bullet: 'There are 7 unique entry types in RenderCV: *BulletEntry*, *TextEntry*, *EducationEntry*, *ExperienceEntry*, *NormalEntry*, *PublicationEntry*, and *OneLineEntry*.'
     #   - bullet: Each entry type has a different structure and layout. This document demonstrates all of them.
@@ -156,7 +168,7 @@ design:
     use_icons_for_connections: true
     alignment: center
   section_titles:
-    type: with-parial-line
+    type: with-full-line
     font_family: Source Sans 3
     font_size: 1.4em
     bold: true
